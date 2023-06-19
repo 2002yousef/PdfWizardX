@@ -1,6 +1,7 @@
 # pdfWizardX
 
-pdfWizardX is a Python project that provides a simple and convenient way to perform various operations on PDF files. It allows you to merge multiple PDF files, split a PDF into multiple parts, convert DOCX and PNG files to PDF, and encrypt PDF files with password protection. With pdfWizardX, you can automate these tasks and integrate them into your own Python projects effortlessly.
+pdfWizardX is a Python project that provides a simple and convenient way to perform various operations on PDF files. It allows you to merge multiple PDF files, split a PDF into multiple parts, convert DOCX and PNG files to PDF, and encrypt PDF files with password protection. With pdfWizardX, you can automate these tasks and integrate them into your own Python projects effortlessly. <br />
+You can find the project in Test folder #### **`test.ipynb`**
 
 ## Installation
 Clone the following command in your favorite ide
